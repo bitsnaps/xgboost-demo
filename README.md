@@ -11,3 +11,5 @@ gradle build
 ```
 gradle run
 ```
+
+P.S. You should first compile model using Python.

@@ -1,0 +1,11 @@
+.idea
+.lazybones
+*.iml
+*.ipr
+*.iws
+build/
+out/
+.gradle/
+.DS_Store/**
+gradlew
+gradlew.bat
